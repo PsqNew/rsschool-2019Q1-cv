@@ -15,3 +15,5 @@ Studied working with Oracle databases, MySql and structured query language (SQL)
 7. **Education**: My first education is economic. He graduated from the Belarusian Trade and Economic University of Consumer Cooperatives at the Faculty of Economics and Management and received a degree in economics and enterprise management (by branches).
 He received his second education at the Institute of IBA at the Faculty of IT and Business Administration, specializing in the design of software for information systems.
 8. **English level**: B1 - intermediate English.
+
+##Thank you for your time
